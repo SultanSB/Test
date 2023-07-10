@@ -1,5 +1,5 @@
-print ("Hello world ")
-print ("This is my first program")
-x = 10
-y = 20
-print ("x + y = ", x + y)
+print ("Hello, world ")
+ 
+ 
+print ("HELLO HOW ARE YOU")
+print ("Errors in programming are called bugs")

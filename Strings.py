@@ -50,4 +50,4 @@ print ("============")
 name3 = input("Sorry, i will ask you again. What is your full name ")
 firstName, middleName, lastName = name3.split(" ")
 
-print ("Your first name is " ,firstName, ". Your middle name ", middleName, ". Your last name", lastName, sep = "")
+print ("Your first name is " ,firstName, ". Your middle name ", middleName, ". Your last name ", lastName, sep = "")
